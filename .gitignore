@@ -1,4 +1,7 @@
-_site/
+.idea/
+*.iml
+*.iws
+
 .DS_Store
-/bundle-vendor/bundle/
-/.jekyll-metadata
+
+.svn
