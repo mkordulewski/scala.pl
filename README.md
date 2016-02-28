@@ -1,4 +1,4 @@
-# SCALA.PL
+# Scala.pl
 
 * Polish Scala website:
   * http://scala.pl/
