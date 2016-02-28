@@ -19,7 +19,7 @@ function getOS() {
 $(document).ready(function(){
 
   // background image on frontpage
-  $(".splash").backstretch("/resources/img/view-leman-opt2.jpg");
+  $(".splash").backstretch("/static/view-leman-opt2.jpg");
 
   // tooltips (front page)
   $(".marker").mouseover(function(){ $(".tip").show(); });
