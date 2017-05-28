@@ -1,7 +1,8 @@
 CACHE MANIFEST
-# 2017-05-06:v1
+# 2017-05-28:v1
 
 CACHE:
+/404.html
 /index.html
 /static/books.png
 /static/bootstrap.css
