@@ -3,4 +3,4 @@
 * Polish Scala website:
   * https://scala.pl/
 * Based on main Scala website:
-  * http://scala-lang.org/
+  * https://www.scala-lang.org/
